@@ -1,0 +1,12 @@
+Variables :
+Las variables son una forma de guardar informacion o datos para poder usarlos mas adelante. Las variables siempre comienzan con "let", "var" o "const" y seguido del nombre que le queramos poner a la variable. Guardar la informacion o datos nos permite poder utilizar la informacion que tiene con solo nombrar a la variable.
+
+Strings:
+El string es como un texto es decir que tiene letras, numeros, signos de expresion y van entre comillas. El string puede ser de una letra o hasta puede estar vacio o puede tener la cantidad de caracteres que se quiera.
+
+Funcion (argumentos , return):
+Las funciones nos permiten cambiar, analizar, ajustar los argumentos segun lo que querramos hacer. Los argumentos son los valores que introducimos para ejecutar la funcion. Estos pueden ser de diversos tipos (strings, variables). La declaracion return establece que parte de la funcion es la que se hace visible. Es decir, por ejemplo si quiero hacer la suma de dos numeros y quiero que la funcion me devuelva el resultado hay que escribir la declaracion return en el resultado de la suma.
+
+Valores Booleanos (true,false):
+Los valores booleanos son los valores definidos como true y false y nos permite establecer condiciones y determinar el tipo de argumento con el que estamos trabajando. Por ejemplo si el valor es vacio se determina como false al igual que el 0.
+

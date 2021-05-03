@@ -1,0 +1,14 @@
+Objetos:
+Un objeto es un conjunto de argumentos que lo definen. Es decir por ejemplo un objeto puede ser un auto y este tiene diversas caracteristicas / argumentos dentro que lo definien.
+
+Propiedades:
+Las propiedades son los argumentos dentro de un objeto que me permiten darle las caracteristicas del mismo. La propiedades tiene una key o nombre y le sigue el valor de la misma. Los valores pueden ser funciones, strings, numeros, etc.
+
+Metodos:
+Los metodos son las propiedadess tipo funcion dentro de un objeto.
+
+Bucle for ... in:
+Es un bucle similar al for y nos permite recorrer los objetos al determinar la variable que quiero trabajar y el nombre del objeto en el que estoy trabajando y le sigue la accion a realizar.
+
+Notacion de Puntos vs notacion de corchetes:
+Ambas notaciones son un manera de ingresa a los valores de las propiedades de los objetos. La diferencias se encuentra en como se escriben y que las propiedades en la notacion de corchetes deben ir entre comillas salvo las variables y que la notacion de puntos busca propiedades y no variables ya que buscar el nombre exacto de la propiedad ingresada

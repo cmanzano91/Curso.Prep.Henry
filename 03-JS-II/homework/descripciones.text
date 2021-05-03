@@ -1,0 +1,5 @@
+Bucle for:
+El bucle for me permite ingresar a cada dato de un arreglo y/o funcion y ejecutar un analisis determinado a cada uno de esos elementos. Es decir que el bucle for recorre todo el arreglo / funcion y realiza el mismo procedimiento en cada elemento.
+
+Operadores Logicos  && / || / !:
+El operador logico && me permite tener dos condiciones que se deben cumplir para que la funcion/expresion se ejecute. El operdor logico || me permite tener dos condicionales que si sucede alguno de los dos o ambos se ejecuta la funcion/expresion. El operador logico ! me arroja el valor booleano opuesto al que determina la expresion. Es decir que si la expresion es false me va a decir que es true.

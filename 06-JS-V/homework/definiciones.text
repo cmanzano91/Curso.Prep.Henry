@@ -1,0 +1,9 @@
+* `prototype`
+* _Constructors_ (de Clases)
+
+prototype:
+El prototype nos permite utilizar un objeto de clase que ya fue creado para ser utilizado en un nuevo objeto que comparta propiedades.
+
+Constructores de Clase
+Los Constructores de clase es la forma de construir una nueva clase con ciertos parametros y ciertas caracteristicas
+

@@ -1,0 +1,41 @@
+h1{
+    color: olive;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height:600px;
+    width: 500px; 
+    padding: 50px;
+    background-color: lightgray;
+    border: 5px solid black;   
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
+/* Style CV */
+
+.h3CV{
+    text-align: center;
+}
+
+hr{
+    width: 600px;   
+}
+.centrar{
+    display: flex;
+    justify-content: space-around;
+}
+#imgCV{
+    width: 150px;
+    border-radius: 20px;
+    margin-left: 43%;
+
+}
+#h1CV{
+    text-align: center;
+}
